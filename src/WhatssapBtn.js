@@ -31,7 +31,7 @@ export default function WhatssapBtn() {
       <Button
         variant="#"
         size="lg"
-        href="https://wa.me/27996969004?text=Olá%20,%20gostaria%20de%20fazer%20um%20pedido!"
+        href="https://wa.me/27996969004?text=Olá,%20gostaria%20de%20fazer%20um%20pedido!"
         target="_blank"
         className="text-white"
         onClick={handleWhatsAppClick} // Adicionado onClick aqui
